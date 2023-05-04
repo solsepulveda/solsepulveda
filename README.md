@@ -1,4 +1,6 @@
-### Hi there 👋
+- ✨ Hi I'm Solange
+- ✨ I love creating, building and designing projects
+- ✨ I'm a FrontEnd Javascript Developer studying in Laboratoria
 
 <!--
 **solsepulveda/solsepulveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
