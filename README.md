@@ -1,5 +1,5 @@
 
-Haz clic aquí para ver mi portafolio[https://solsepulveda.github.io/Portafolio/src/]
+[Revisa mi portafolio aquí](https://solsepulveda.github.io/Portafolio/src/)
 
 - ✨ Hi I'm Solange, a Chilean in Tech
 - ⚡ I'm a FrontEnd Javascript Developer student in Laboratoria
